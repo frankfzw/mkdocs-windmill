@@ -86,7 +86,7 @@ body {
   right: 0px;
   padding: inherit;
   width: 100%;
-  background-color: #546e7a;
+  background-color: #0071c5;
 }
 
 .wm-top-search {
@@ -255,7 +255,7 @@ body {
 }
 
 .wm-toc-li.wm-current, .wm-toc-li.wm-current:hover {
-  background-color: #546e7a;
+  background-color: #0071c5;
   color: white;
 }
 

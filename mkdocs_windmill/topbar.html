@@ -40,9 +40,9 @@
         <img class="wm-top-logo" src="{{ base_url }}/{{ config.extra.logo }}"/>
       {% endif %}
       <div class="wm-top-title">
-        {{ config.site_name }}<br>
+        {{ config.site_name }} &nbsp
         {% if config.extra.version %}
-          <span class="wm-top-version">v{{ config.extra.version }}</span>
+          <span class="wm-top-version">{{ config.extra.version }}</span>
         {% endif %}
       </div>
     </a>
